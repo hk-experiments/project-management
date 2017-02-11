@@ -1,0 +1,48 @@
+Business Objective
+	Acquire Customers  - free app for customers
+	Acquire End users  - chat app? iot?
+	Potential services opportunities based on above collateral
+
+Technology Areas
+	Cognitive Computing, Machine Learning, applied to IoT
+	Think about Security angle to the above
+	Applicable to E-Commerce
+	Applicable to healthcare
+
+Learning Areas
+	Machine Learning/R
+	Node/Python/Go
+	Bootstrap/Angular.js/CSS3/HTML5/Cordova
+	Node/Express,
+	Mongo DB
+	Git concepts
+	Build an application/platform (ML that users can try) continuously running
+		First Project: Interactive portal
+			Admin view
+				Bulk upload questions and answers in JSON/XML/Some other format
+				Search student test data
+				View student test data
+				Provision new students
+				Set test timer
+			Student view
+				Log in
+				Take test - one question on the page at a time
+				Track test time
+				Submit
+			Authentication Module from Karna - Github
+				Signup
+				Role/Mode
+				Privilege workflow - email verification
+
+	Dev tools
+		Sublime/Nodeclipse
+		Github - already done
+		http://fontawesome.io/
+
+
+
+Mobile Specific
+Device Authentication - mobile angle
+Geolocation
+Camera access
+
